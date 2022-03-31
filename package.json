@@ -1,5 +1,5 @@
 {
-  "name": "jaydata-promise-handler",
+  "name": "u4pm-jaydata-promise-handler",
   "description": "JayData Promise Handler",
   "main": "lib/promise.js",
   "keywords": [
